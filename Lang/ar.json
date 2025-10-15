@@ -1,0 +1,9 @@
+{
+    "pending": "معلق",
+    "accepted": "مقبول",
+    "returned":"مسترجع",
+    "completed":"مكتمل",
+    "cancelled":"ملغى",
+    "banner": "بانر",
+    "slider": "سلايدر"
+}
